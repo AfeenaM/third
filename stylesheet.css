@@ -5,3 +5,6 @@ H1 {
 ul {
   list-style: none;
 }
+.left-nav {
+  float: left;
+}
